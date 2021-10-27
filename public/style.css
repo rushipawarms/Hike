@@ -11,6 +11,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
   }
   
   .chat-box {
@@ -154,4 +155,13 @@
     font-size: 30px;
   
     color: #aca6c1;
+  }
+  .devlope{
+        
+    width: 10%;
+    align-items: center;
+    color: white;
+    font-style: revert;
+    font-family: cursive;
+}
   }
